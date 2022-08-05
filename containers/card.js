@@ -7,7 +7,7 @@ export default function card(){
         
         <section>
         <img src="../images/Perfil.jpg"/>
-        <h1>Alvaro Reinoso</h1>
+        <h1>Robert Patison</h1>
         <p id="subtitle">Frontend Developer</p>
         <p id="website">alvaroreinoso.website</p>
         <div class="buttons">
